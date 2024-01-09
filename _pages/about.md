@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
 # Sobre Mí
 
 ¡Hola, soy [Tu Nombre]!
