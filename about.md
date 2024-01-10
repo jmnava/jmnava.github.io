@@ -1,8 +1,7 @@
-<!-- ---
+---
 layout: default
-title:  "About me"
-permalink: /about/
---- -->
+title:  "About"
+--- 
 
 # Sobre Mí
 
