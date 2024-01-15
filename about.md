@@ -13,7 +13,7 @@ Cybersecurity enthusiast, starting in ethical hacking, reversing and CTF player.
 
 ---
 
-##SW developing highlights
+## SW developing highlights
 - 10+ years C/C++ programming
 - 2+ years python programming
 - 2+ years bash scripting
@@ -23,7 +23,7 @@ Cybersecurity enthusiast, starting in ethical hacking, reversing and CTF player.
 
 ---
 
-##Cybersecurity skills
+## Cybersecurity skills
 - 1+ years Kali linux 
 - YARA, SIGMA & SNORT rules
 - Reversing (IDA, Ghidra)
@@ -36,7 +36,7 @@ Cybersecurity enthusiast, starting in ethical hacking, reversing and CTF player.
 ---
 
 
-##Embedded skills
+## Embedded skills
 - Low-Level Programming (C & Assembly)
 - Firmware developing
 - Electronics knowledge
@@ -72,41 +72,68 @@ Cybersecurity enthusiast, starting in ethical hacking, reversing and CTF player.
 
 ## Certifications
 
-### Professional Scrum Master
-**Scrum org**
-*2018*
+<p style="text-align:left;">
+    <b>Professional Scrum Master</b>
+    <span style="float:right;">
+        Scrum org *2018*
+    </span>
+</p>
 
-### Linux for Embedded devices
-**Electratrainning**  
-*2019*
+<p style="text-align:left;">
+    <b>Linux for Embedded devices</b>
+    <span style="float:right;">
+        Electratrainning *2019*
+    </span>
+</p>
 
-### Embedded Linux system development
-**Bootlin**  
-*2022*
+<p style="text-align:left;">
+    <b>Embedded Linux system development</b>
+    <span style="float:right;">
+        Bootlin *2022*
+    </span>
+</p>
 
-### Practical Ethical Hacking 
-**TCM Academy**  
-*2023*
+<p style="text-align:left;">
+    <b>Practical Ethical Hacking </b>
+    <span style="float:right;">
+        TCM Academy *2023*
+    </span>
+</p>
 
-### Linux privilege Escalation
-**TCM Academy**  
-*2023*
+<p style="text-align:left;">
+    <b>Linux privilege Escalation</b>
+    <span style="float:right;">
+        TCM Academy *2023*
+    </span>
+</p>
 
-###Python 3 from zero
-**Udemy**
-*2017*
+<p style="text-align:left;">
+    <b>Python3 from zero</b>
+    <span style="float:right;">
+        Udemy *2017*
+    </span>
+</p>
 
-###Linux shell scrpting
-**Udemy**
-*2020*
+<p style="text-align:left;">
+    <b>Linux shell scrpting</b>
+    <span style="float:right;">
+        Udemy *2020*
+    </span>
+</p>
 
-###AWS Certified Solutions Architect
-**Udemy**
-*2020*
+<p style="text-align:left;">
+    <b>AWS Certified Solutions Architect</b>
+    <span style="float:right;">
+        Udemy *2020*
+    </span>
+</p>
 
-###Git+Github: Version control
-**Udemy**
-*2021*
+<p style="text-align:left;">
+    <b>Git+Github: Version control</b>
+    <span style="float:right;">
+        Udemy *2021*
+    </span>
+</p>
 
 ---
 
@@ -123,9 +150,11 @@ Cybersecurity enthusiast, starting in ethical hacking, reversing and CTF player.
 ### R&D Engineer
 **Airzone** (Málaga, Spain)  
 *02/201 - 02/2022*
-- Develop & maintain a wide range of products for climate and domotic control
-- Develop products for small bare-metal operating systems to more complex linux based products.
-- Train & support customer Service department on new products 
+- Develop & maintain a wide range of products for climate and domotic control.
+- Code firmware of climatization products from small bare-metal operating systems to more complex linux based products.
+- Implement and improve wireless communication and low power modes of new devices
+- Train & support customer Service department on new products.
+- Participate in the definition of manufacturing processes. 
 
 ---
 
